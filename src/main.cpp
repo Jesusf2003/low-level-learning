@@ -25,6 +25,7 @@ int main(int argc, char **argv)
     circle = 2 * PI * r;    // maths
     mystring = "C++ program";
     float x = 3.7;
+    bool condition = true;
     int y = (int)x;
     // concat
     std::cout << "Hola mundo" << std::endl;
