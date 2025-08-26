@@ -1,7 +1,7 @@
 # Low level C++ learning
 
 Aprendiendo a crear aplicaciones con C++
-de bajo nivel para futuros projectos.
+de bajo nivel para futuros proyectos.
 
 # Notes
 - [Setup project](./docs/Setup.md)
